@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/敏感词/广告+政治安全+黄赌毒（需去重）.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/敏感词/政治、色情（需去重）.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/敏感词/敏感词库大全（需去重）.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/敏感词/百度敏感词（需去重）.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/敏感词/百度过滤词（需去重）.txt" charset="GBK" />
+  </component>
+</project>

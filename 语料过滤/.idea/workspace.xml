@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9daa05b3-6866-4801-9cad-94ee2e808245" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/langconv.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="filter2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/filter2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="103" column="64" selection-start-line="103" selection-start-column="64" selection-end-line="103" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="小冰过滤0815.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/小冰过滤0815.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="小冰过滤26.5万.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/小冰过滤26.5万.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="1197161814.txt_0803.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/微博/1197161814.txt_0803.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zh_wiki.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zh_wiki.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="1618051664.txt_0803.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1618051664.txt_0803.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="1662214194.txt_0803.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1662214194.txt_0803.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="filter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/filter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="langconv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/langconv.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>关门</find>
+      <find>关门......</find>
+      <find>操</find>
+      <find>姥姥</find>
+      <find>s</find>
+      <find>网易</find>
+      <find>[</find>
+      <find>@</find>
+      <find>mgc</find>
+      <find>建国以后不准成精</find>
+      <find>我昨天晚上也一巴掌拍死好几个，墙上全是</find>
+      <find>@十二点关手机睡觉</find>
+      <find>问题：晚上睡觉会不会被蚊子抬走？</find>
+      <find>一点也不慌</find>
+      <find>??的境界了。</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/糗事百科.txt" />
+        <option value="$PROJECT_DIR$/data/douban.txt" />
+        <option value="$PROJECT_DIR$/糗百过滤.txt" />
+        <option value="$PROJECT_DIR$/豆瓣电影过滤.txt" />
+        <option value="$PROJECT_DIR$/豆瓣电影过滤2.txt" />
+        <option value="$PROJECT_DIR$/data/163music.txt" />
+        <option value="$PROJECT_DIR$/data/小野妹子.txt" />
+        <option value="$PROJECT_DIR$/豆瓣读书过滤.txt" />
+        <option value="$PROJECT_DIR$/豆瓣读书1过滤.txt" />
+        <option value="$PROJECT_DIR$/豆瓣读书1过滤1.txt" />
+        <option value="$PROJECT_DIR$/豆瓣读书过滤1.txt" />
+        <option value="$PROJECT_DIR$/filter.py" />
+        <option value="$PROJECT_DIR$/data/敏感词/百度敏感词（需去重）.txt" />
+        <option value="$PROJECT_DIR$/filter2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="605" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="语料过滤" type="b2602c69:ProjectViewProjectNode" />
+              <item name="语料过滤" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="语料过滤" type="b2602c69:ProjectViewProjectNode" />
+              <item name="语料过滤" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="语料过滤" type="b2602c69:ProjectViewProjectNode" />
+              <item name="语料过滤" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="微博" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="语料过滤" type="b2602c69:ProjectViewProjectNode" />
+              <item name="语料过滤" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="敏感词" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yis.yang\PycharmProjects\语料过滤\data" />
+      <recent name="C:\Users\yis.yang\PycharmProjects\语料过滤" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yis.yang\PycharmProjects\语料过滤\data" />
+      <recent name="C:\Users\yis.yang\PycharmProjects\语料过滤" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.filter2">
+    <configuration name="filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="语料过滤" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="filter2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="语料过滤" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filter2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.filter" />
+      <item itemvalue="Python.filter2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.filter2" />
+        <item itemvalue="Python.filter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9daa05b3-6866-4801-9cad-94ee2e808245" name="Default" comment="" />
+      <created>1530515486852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530515486852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34818482" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.330033" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5445545" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/filter.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/filter.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/filter.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/filter.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/filter2.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/filter2.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/糗事百科.txt" />
+    <entry file="file://$PROJECT_DIR$/data/网易云2.txt" />
+    <entry file="file://$PROJECT_DIR$/data/qiubai.txt" />
+    <entry file="file://$PROJECT_DIR$/163过滤2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/糗百过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/小冰过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/data/xiaoice.txt" />
+    <entry file="file://$PROJECT_DIR$/网易云评论回复过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/data/人民日报微博评论.txt" />
+    <entry file="file://$PROJECT_DIR$/data/小冰微博评论.txt" />
+    <entry file="file://$PROJECT_DIR$/网易云过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/李诞+池子过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/data/李诞+池子微博评论.txt" />
+    <entry file="file://$PROJECT_DIR$/人民日报过滤.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="420280">
+          <caret line="22120" selection-start-line="22120" selection-end-line="22120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小冰过滤2.txt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/小野妹子.txt" />
+    <entry file="file://$PROJECT_DIR$/data/douban.txt" />
+    <entry file="file://$PROJECT_DIR$/小野妹子过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/穿越过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/豆瓣读书过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/data/豆瓣读书.txt" />
+    <entry file="file://$PROJECT_DIR$/豆瓣读书1过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/豆瓣读书1过滤1.txt" />
+    <entry file="file://$PROJECT_DIR$/豆瓣电影过滤.txt" />
+    <entry file="file://$PROJECT_DIR$/data/豆瓣读书1.txt" />
+    <entry file="file://$PROJECT_DIR$/豆瓣电影过滤2.txt" />
+    <entry file="file://$PROJECT_DIR$/豆瓣读书过滤1.txt" />
+    <entry file="file://$PROJECT_DIR$/豆瓣电影2.txt" />
+    <entry file="file://$PROJECT_DIR$/data/人民日报.txt" />
+    <entry file="file://$PROJECT_DIR$/人民日报过滤0727.txt" />
+    <entry file="file://$PROJECT_DIR$/人民日报过滤0801.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2782246">
+          <caret line="146434" column="17" selection-start-line="146434" selection-start-column="17" selection-end-line="146434" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/敏感词/百度过滤词（需去重）.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/敏感词/敏感词库大全（需去重）.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/敏感词/百度敏感词（需去重）.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30590">
+          <caret line="1610" column="2" selection-start-line="1610" selection-start-column="2" selection-end-line="1610" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1197161814.txt_0803.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679497">
+          <caret line="35763" selection-start-line="35763" selection-end-line="35763" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1497337850.txt_0803.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1618051664.txt_0803.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1662214194.txt_0803.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/langconv.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/微博/1197161814.txt_0803.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1497337850.txt_0803.txt0815.txt" />
+    <entry file="file://$PROJECT_DIR$/1618051664.txt_0803.txt0815.txt" />
+    <entry file="file://$PROJECT_DIR$/1197161814.txt_0803.txt0815.txt" />
+    <entry file="file://$PROJECT_DIR$/zh_wiki.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3900215081.txt_0803.txt0815.txt" />
+    <entry file="file://$PROJECT_DIR$/3305085281.txt_0803.txt0815.txt" />
+    <entry file="file://$PROJECT_DIR$/data/小冰过滤26.5万.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="103" column="64" selection-start-line="103" selection-start-column="64" selection-end-line="103" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小冰过滤0815.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
